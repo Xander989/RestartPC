@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/pc.png</file>
+        <file>icons/Frame.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
