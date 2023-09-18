@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QPushButton>
-
+//int start;
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
@@ -18,6 +18,7 @@ public:
     void checkTime();
     void autoClick();
     int check = 0;
+
 
 private:
     Ui::MainWindow *ui;
